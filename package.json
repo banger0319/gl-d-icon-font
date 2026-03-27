@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "bin": {
-    "gl-d-icon-font": "./index.js"
+    "gl-d-icon-font": "index.js"
   },
   "description": "MCP server: download iconfont.cn project assets (CSS/TTF/WOFF/WOFF2)",
   "author": "gl-bang",
