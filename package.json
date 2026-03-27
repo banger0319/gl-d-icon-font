@@ -1,16 +1,16 @@
 {
-  "name": "gl-download-icon",
+  "name": "gl-d-icon-font",
   "version": "1.0.0",
   "type": "module",
   "bin": {
-    "gl-download-icon": "server.js"
+    "gl-d-icon-font": "server.js"
   },
-  "description": "gl-download-icon",
+  "description": "gl-d-icon-font",
   "author": "gl-bang",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/banger0319/gl-download-icon.git"
+    "url": "git+https://github.com/banger0319/gl-d-icon-font.git"
   },
   "dependencies": {
     "extract-zip": "^2.0.1"
